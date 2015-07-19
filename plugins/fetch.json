@@ -1,0 +1,13 @@
+{
+    "com.phonegap.plugins.facebookconnect": {
+        "source": {
+            "type": "registry",
+            "id": "com.phonegap.plugins.facebookconnect"
+        },
+        "is_top_level": true,
+        "variables": {
+            "APP_ID": "491074337734753",
+            "APP_NAME": "DBSUPER"
+        }
+    }
+}
